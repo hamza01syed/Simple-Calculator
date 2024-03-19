@@ -1,5 +1,5 @@
 {
-  "name": "cli_simple_calculator",
+  "name": "clibased_simple_calculator",
   "version": "1.0.0",
   "description": "A simple Calculator with typescript",
   "main": "index.js",
